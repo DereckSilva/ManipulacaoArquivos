@@ -15,4 +15,4 @@ Leitura e escrita dentro de um arquivo.
 - ``Paradigma de orientação a objetos``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/DereckSilva/ConexaoBanco/tree/master/bancoDados).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/DereckSilva/ManipulacaoArquivos/tree/master).
